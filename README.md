@@ -6,7 +6,7 @@ This repository provides a 3-script workflow to:
 2. Build a country-specific NUTS-3 crosswalk
 3. Extract final records and per-region hourly CSV outputs
 
-##Note: This code has only been tested with the dta available at https://opendata.ffe.de/dataset/load-curves-of-the-industry-sector-including-feedstock-europe-nuts-3/ with the data for DE and DK for the year 2019.
+## Note: This code has only been tested with the data available at https://opendata.ffe.de/dataset/load-curves-of-the-industry-sector-including-feedstock-europe-nuts-3/ with the data for DE and DK for the year 2019.
 
 ## Files
 
